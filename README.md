@@ -1,14 +1,5 @@
 <h2 align="left">Olá 👋! Eu sou a Tatiane</h2>
 
-
-
-- 💻 Estudei desenvolvimento web Front-End na Proz Educação
-- 🚀 Fiz alguns cursos na PrograMaria, WomakersCode e DIO
-- 🌱 Atualmente faço bootcamp Full Stack C# Angular na Imã Tech e Descodificadas
-
-
-
-
 ###
 
 <div align="center">
