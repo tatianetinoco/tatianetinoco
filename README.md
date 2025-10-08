@@ -1,5 +1,12 @@
 <h2 align="left">Olá 👋! Eu sou a Tatiane</h2>
 
+
+## Sobre mim
+Atualmente estudando:  
+- Técnico em Informática para Internet - IFSULDEMINAS  
+- Técnico em Desenvolvimento de Sistemas - SENAC
+
+
 ###
 
 <div align="center">
