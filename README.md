@@ -2,9 +2,8 @@
 
 
 ## Sobre mim
-Atualmente estudando:  
-- Técnico em Informática para Internet - IFSULDEMINAS  
-- Técnico em Desenvolvimento de Sistemas - SENAC
+- ✔️ **Técnico em Informática para Internet** – IFSULDEMINAS (EAD)  
+- 📚 **Técnico em Desenvolvimento de Sistemas** – SENAC *(em andamento)*
 
 
 ###
