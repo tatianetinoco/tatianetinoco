@@ -2,8 +2,9 @@
 
 
 ## Sobre mim
-- ✔️ **Técnico em Informática para Internet** – IFSULDEMINAS (EAD)  
+- ✔️ **Técnico em Informática para Internet** – IFSULDEMINAS   
 - 📚 **Técnico em Desenvolvimento de Sistemas** – SENAC *(em andamento)*
+- 🎓 **Sistemas de Informação** – UNIUBE *(em andamento)*
 
 
 ###
